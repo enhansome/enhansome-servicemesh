@@ -1,0 +1,235 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "kong",
+          "description": "🐒 The Microservice API Gateway",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2026-08-04T09:27:18Z",
+            "owner": "Kong",
+            "repo": "kong",
+            "stars": 43972
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "dubbo",
+          "description": "Apache Dubbo (incubating) is a high-performance, java based, open source RPC framework",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-08-12T16:24:31Z",
+            "owner": "apache",
+            "repo": "dubbo",
+            "stars": 41552
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "consul",
+          "description": "Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-13T07:06:59Z",
+            "owner": "hashicorp",
+            "repo": "consul",
+            "stars": 30029
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tars",
+          "description": "Tars is a highly performance rpc framework based on naming service using tars protocol and provides a semi-automatic operation platform",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-07-18T07:34:15Z",
+            "owner": "TarsCloud",
+            "repo": "Tars",
+            "stars": 10075
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "nginx-unit",
+          "description": "NGINX Unit is a new, lightweight, open source application server built to meet the demands of today’s dynamic and distributed applications",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "C",
+            "last_commit": "2025-10-08T18:19:44Z",
+            "owner": "nginx",
+            "repo": "unit",
+            "stars": 5551
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ambassador",
+          "description": "Open source Kubernetes-native API gateway for microservices built on the Envoy Proxy",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T21:15:40Z",
+            "owner": "emissary-ingress",
+            "repo": "emissary",
+            "stars": 4518
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "sofa-mosn",
+          "description": "SOFAMosn is a modular observable smart network which can be used in service mesh deployed as a data plane sidecar",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-07-14T02:27:38Z",
+            "owner": "mosn",
+            "repo": "mosn",
+            "stars": 4510
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "control-plane",
+          "description": "Contains a Go-based implementation of an API server that implements the discovery service APIs defined in data-plane-api",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-12T07:18:02Z",
+            "owner": "envoyproxy",
+            "repo": "go-control-plane",
+            "stars": 1724
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "sofa-mesh",
+          "description": "A solution for large-scale Service Mesh based on Istio",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Go",
+            "last_commit": "2020-02-26T06:58:19Z",
+            "owner": "sofastack",
+            "repo": "sofa-mesh",
+            "stars": 1143
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "mesher",
+          "description": "A light weight service mesh implementation based on go chassis",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-05-15T22:52:37Z",
+            "owner": "apache",
+            "repo": "servicecomb-mesher",
+            "stars": 688
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "nginmesh",
+          "description": "NGINX Architecture with Istio Service Mesh",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Go",
+            "last_commit": "2018-11-12T11:34:39Z",
+            "owner": "nginxinc",
+            "repo": "nginmesh",
+            "stars": 600
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "amalgam8",
+          "description": "Content and Version-based Routing Fabric for Polyglot Microservices",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2025-08-18T14:17:37Z",
+            "owner": "amalgam8",
+            "repo": "amalgam8",
+            "stars": 157
+          }
+        }
+      ],
+      "title": "Frameworks / Runtimes"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Awesome Microservices",
+          "description": "A curated list of Microservice Architecture related principles and technologies",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-06-10T15:05:12Z",
+            "owner": "mfornos",
+            "repo": "awesome-microservices",
+            "stars": 14475
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome CI/CD DevOps",
+          "description": "A curated list of awesome tools for continuous integration, continuous delivery and DevOps",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-04-14T12:29:54Z",
+            "owner": "cicdops",
+            "repo": "awesome-ciandcd",
+            "stars": 2007
+          }
+        }
+      ],
+      "title": "Related Technologies"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Theory"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "License"
+    },
+    {
+      "description": "Please, read the Contribution Guidelines before submitting your suggestion.\nFeel free to open an issue or create a pull request with your additions.\n:star2: Thank you!",
+      "items": [],
+      "title": "Contributing"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T11:10:41.208Z",
+    "original_repository": "festum/awesome-servicemesh",
+    "original_repository_sha": "40f7b0e8d2c43c2c7e12e0df56f91df62ccc3654",
+    "enhanced_repository": "enhansome/enhansome-servicemesh",
+    "enhanced_repository_description": null,
+    "title": "Awesome Service Mesh with stars"
+  }
+}
