@@ -14,7 +14,7 @@
             "last_commit": "2026-08-04T09:27:18Z",
             "owner": "Kong",
             "repo": "kong",
-            "stars": 43972
+            "stars": 43984
           }
         },
         {
@@ -25,7 +25,7 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-08-12T16:24:31Z",
+            "last_commit": "2026-08-13T18:29:17Z",
             "owner": "apache",
             "repo": "dubbo",
             "stars": 41552
@@ -39,7 +39,7 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-13T07:06:59Z",
+            "last_commit": "2026-08-14T10:40:21Z",
             "owner": "hashicorp",
             "repo": "consul",
             "stars": 30029
@@ -56,7 +56,7 @@
             "last_commit": "2026-07-18T07:34:15Z",
             "owner": "TarsCloud",
             "repo": "Tars",
-            "stars": 10075
+            "stars": 10076
           }
         },
         {
@@ -81,10 +81,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-12T21:15:40Z",
+            "last_commit": "2026-08-13T21:02:45Z",
             "owner": "emissary-ingress",
             "repo": "emissary",
-            "stars": 4518
+            "stars": 4519
           }
         },
         {
@@ -98,7 +98,7 @@
             "last_commit": "2026-07-14T02:27:38Z",
             "owner": "mosn",
             "repo": "mosn",
-            "stars": 4510
+            "stars": 4509
           }
         },
         {
@@ -109,10 +109,10 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-12T07:18:02Z",
+            "last_commit": "2026-08-14T05:13:03Z",
             "owner": "envoyproxy",
             "repo": "go-control-plane",
-            "stars": 1724
+            "stars": 1723
           }
         },
         {
@@ -126,7 +126,7 @@
             "last_commit": "2020-02-26T06:58:19Z",
             "owner": "sofastack",
             "repo": "sofa-mesh",
-            "stars": 1143
+            "stars": 1142
           }
         },
         {
@@ -154,7 +154,7 @@
             "last_commit": "2018-11-12T11:34:39Z",
             "owner": "nginxinc",
             "repo": "nginmesh",
-            "stars": 600
+            "stars": 599
           }
         },
         {
@@ -188,7 +188,7 @@
             "last_commit": "2026-06-10T15:05:12Z",
             "owner": "mfornos",
             "repo": "awesome-microservices",
-            "stars": 14475
+            "stars": 14477
           }
         },
         {
@@ -225,7 +225,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T11:10:41.208Z",
+    "last_updated": "2026-08-14T11:07:47.340Z",
     "original_repository": "festum/awesome-servicemesh",
     "original_repository_sha": "40f7b0e8d2c43c2c7e12e0df56f91df62ccc3654",
     "enhanced_repository": "enhansome/enhansome-servicemesh",

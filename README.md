@@ -14,14 +14,14 @@ A curated list of tools implements the concept of Service Mesh
 
 ## Frameworks / Runtimes
 
-* [kong](https://github.com/Kong/kong) ⭐ 43,972 | 🐛 188 | 🌐 Lua | 📅 2026-08-04 - 🐒 The Microservice API Gateway
-* [dubbo](https://github.com/apache/incubator-dubbo) ⭐ 41,552 | 🐛 1,023 | 🌐 Java | 📅 2026-08-12 - Apache Dubbo (incubating) is a high-performance, java based, open source RPC framework
-* [consul](https://github.com/hashicorp/consul) ⭐ 30,029 | 🐛 1,399 | 🌐 Go | 📅 2026-08-13 - Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure
-* [tars](https://github.com/Tencent/Tars) ⭐ 10,075 | 🐛 48 | 🌐 C++ | 📅 2026-07-18 - Tars is a highly performance rpc framework based on naming service using tars protocol and provides a semi-automatic operation platform
+* [kong](https://github.com/Kong/kong) ⭐ 43,984 | 🐛 188 | 🌐 Lua | 📅 2026-08-04 - 🐒 The Microservice API Gateway
+* [dubbo](https://github.com/apache/incubator-dubbo) ⭐ 41,552 | 🐛 1,025 | 🌐 Java | 📅 2026-08-13 - Apache Dubbo (incubating) is a high-performance, java based, open source RPC framework
+* [consul](https://github.com/hashicorp/consul) ⭐ 30,029 | 🐛 1,400 | 🌐 Go | 📅 2026-08-14 - Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure
+* [tars](https://github.com/Tencent/Tars) ⭐ 10,076 | 🐛 48 | 🌐 C++ | 📅 2026-07-18 - Tars is a highly performance rpc framework based on naming service using tars protocol and provides a semi-automatic operation platform
 * [nginx-unit](https://github.com/nginx/unit) ⚠️ Archived - NGINX Unit is a new, lightweight, open source application server built to meet the demands of today’s dynamic and distributed applications
-* [ambassador](https://github.com/datawire/ambassador) ⭐ 4,518 | 🐛 441 | 🌐 Python | 📅 2026-08-12 - Open source Kubernetes-native API gateway for microservices built on the Envoy Proxy
-* [sofa-mosn](https://github.com/alipay/sofa-mosn) ⭐ 4,510 | 🐛 298 | 🌐 Go | 📅 2026-07-14 - SOFAMosn is a modular observable smart network which can be used in service mesh deployed as a data plane sidecar
-* [control-plane](https://github.com/envoyproxy/go-control-plane) ⭐ 1,724 | 🐛 23 | 🌐 Go | 📅 2026-08-12 - Contains a Go-based implementation of an API server that implements the discovery service APIs defined in data-plane-api
+* [ambassador](https://github.com/datawire/ambassador) ⭐ 4,519 | 🐛 441 | 🌐 Python | 📅 2026-08-13 - Open source Kubernetes-native API gateway for microservices built on the Envoy Proxy
+* [sofa-mosn](https://github.com/alipay/sofa-mosn) ⭐ 4,509 | 🐛 298 | 🌐 Go | 📅 2026-07-14 - SOFAMosn is a modular observable smart network which can be used in service mesh deployed as a data plane sidecar
+* [control-plane](https://github.com/envoyproxy/go-control-plane) ⭐ 1,723 | 🐛 23 | 🌐 Go | 📅 2026-08-14 - Contains a Go-based implementation of an API server that implements the discovery service APIs defined in data-plane-api
 * [sofa-mesh](https://github.com/alipay/sofa-mesh) ⚠️ Archived - A solution for large-scale Service Mesh based on Istio
 * [mesher](https://github.com/go-mesh/mesher) ⭐ 688 | 🐛 29 | 🌐 Go | 📅 2026-05-15 - A light weight service mesh implementation based on [go chassis](https://github.com/ServiceComb/go-chassis) ⭐ 2,726 | 🐛 44 | 🌐 Go | 📅 2026-07-02
 * [nginmesh](https://github.com/nginxinc/nginmesh) ⚠️ Archived - NGINX Architecture with Istio Service Mesh
@@ -35,8 +35,8 @@ A curated list of tools implements the concept of Service Mesh
 
 ## Related Technologies
 
-* [Awesome Microservices](https://github.com/mfornos/awesome-microservices) ⭐ 14,475 | 🐛 19 | 📅 2026-06-10 - A curated list of Microservice Architecture related principles and technologies
-* [Awesome CI/CD DevOps](https://github.com/ciandcd/awesome-ciandcd) ⭐ 2,007 | 🐛 31 | 📅 2026-04-14 - A curated list of awesome tools for continuous integration, continuous delivery and DevOps
+* [Awesome Microservices](https://github.com/mfornos/awesome-microservices) ⭐ 14,477 | 🐛 19 | 📅 2026-06-10 - A curated list of Microservice Architecture related principles and technologies
+* [Awesome CI/CD DevOps](https://github.com/ciandcd/awesome-ciandcd) ⭐ 2,007 | 🐛 32 | 📅 2026-04-14 - A curated list of awesome tools for continuous integration, continuous delivery and DevOps
 
 ## Theory
 
@@ -64,4 +64,4 @@ Feel free to [open an issue](https://github.com/Festum/awesome-servermesh/issues
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-13._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-14._
