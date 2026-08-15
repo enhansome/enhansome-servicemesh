@@ -14,7 +14,7 @@
             "last_commit": "2026-08-04T09:27:18Z",
             "owner": "Kong",
             "repo": "kong",
-            "stars": 43984
+            "stars": 43986
           }
         },
         {
@@ -28,7 +28,7 @@
             "last_commit": "2026-08-13T18:29:17Z",
             "owner": "apache",
             "repo": "dubbo",
-            "stars": 41552
+            "stars": 41551
           }
         },
         {
@@ -39,10 +39,10 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-14T10:40:21Z",
+            "last_commit": "2026-08-14T19:03:29Z",
             "owner": "hashicorp",
             "repo": "consul",
-            "stars": 30029
+            "stars": 30031
           }
         },
         {
@@ -56,7 +56,7 @@
             "last_commit": "2026-07-18T07:34:15Z",
             "owner": "TarsCloud",
             "repo": "Tars",
-            "stars": 10076
+            "stars": 10075
           }
         },
         {
@@ -84,7 +84,7 @@
             "last_commit": "2026-08-13T21:02:45Z",
             "owner": "emissary-ingress",
             "repo": "emissary",
-            "stars": 4519
+            "stars": 4518
           }
         },
         {
@@ -109,7 +109,7 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-14T05:13:03Z",
+            "last_commit": "2026-08-15T08:49:57Z",
             "owner": "envoyproxy",
             "repo": "go-control-plane",
             "stars": 1723
@@ -188,7 +188,7 @@
             "last_commit": "2026-06-10T15:05:12Z",
             "owner": "mfornos",
             "repo": "awesome-microservices",
-            "stars": 14477
+            "stars": 14478
           }
         },
         {
@@ -225,7 +225,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T11:07:47.340Z",
+    "last_updated": "2026-08-15T10:37:36.922Z",
     "original_repository": "festum/awesome-servicemesh",
     "original_repository_sha": "40f7b0e8d2c43c2c7e12e0df56f91df62ccc3654",
     "enhanced_repository": "enhansome/enhansome-servicemesh",
