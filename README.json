@@ -11,10 +11,10 @@
           "repo_info": {
             "archived": false,
             "language": "Lua",
-            "last_commit": "2026-08-04T09:27:18Z",
+            "last_commit": "2026-08-16T14:44:43Z",
             "owner": "Kong",
             "repo": "kong",
-            "stars": 43986
+            "stars": 43990
           }
         },
         {
@@ -28,7 +28,7 @@
             "last_commit": "2026-08-13T18:29:17Z",
             "owner": "apache",
             "repo": "dubbo",
-            "stars": 41552
+            "stars": 41548
           }
         },
         {
@@ -39,10 +39,10 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-14T19:03:29Z",
+            "last_commit": "2026-08-17T09:44:47Z",
             "owner": "hashicorp",
             "repo": "consul",
-            "stars": 30029
+            "stars": 30030
           }
         },
         {
@@ -188,7 +188,7 @@
             "last_commit": "2026-06-10T15:05:12Z",
             "owner": "mfornos",
             "repo": "awesome-microservices",
-            "stars": 14479
+            "stars": 14481
           }
         },
         {
@@ -225,7 +225,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T10:38:15.918Z",
+    "last_updated": "2026-08-17T10:47:37.666Z",
     "original_repository": "festum/awesome-servicemesh",
     "original_repository_sha": "40f7b0e8d2c43c2c7e12e0df56f91df62ccc3654",
     "enhanced_repository": "enhansome/enhansome-servicemesh",
