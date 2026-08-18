@@ -14,7 +14,7 @@
             "last_commit": "2026-08-16T14:44:43Z",
             "owner": "Kong",
             "repo": "kong",
-            "stars": 43990
+            "stars": 43994
           }
         },
         {
@@ -28,7 +28,7 @@
             "last_commit": "2026-08-13T18:29:17Z",
             "owner": "apache",
             "repo": "dubbo",
-            "stars": 41548
+            "stars": 41551
           }
         },
         {
@@ -39,10 +39,10 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-17T09:44:47Z",
+            "last_commit": "2026-08-18T07:01:58Z",
             "owner": "hashicorp",
             "repo": "consul",
-            "stars": 30030
+            "stars": 30031
           }
         },
         {
@@ -70,7 +70,7 @@
             "last_commit": "2025-10-08T18:19:44Z",
             "owner": "nginx",
             "repo": "unit",
-            "stars": 5551
+            "stars": 5549
           }
         },
         {
@@ -81,10 +81,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-13T21:02:45Z",
+            "last_commit": "2026-08-18T07:31:28Z",
             "owner": "emissary-ingress",
             "repo": "emissary",
-            "stars": 4518
+            "stars": 4517
           }
         },
         {
@@ -109,7 +109,7 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-16T03:00:13Z",
+            "last_commit": "2026-08-18T04:08:08Z",
             "owner": "envoyproxy",
             "repo": "go-control-plane",
             "stars": 1723
@@ -188,7 +188,7 @@
             "last_commit": "2026-06-10T15:05:12Z",
             "owner": "mfornos",
             "repo": "awesome-microservices",
-            "stars": 14481
+            "stars": 14480
           }
         },
         {
@@ -225,7 +225,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T10:47:37.666Z",
+    "last_updated": "2026-08-18T10:45:51.330Z",
     "original_repository": "festum/awesome-servicemesh",
     "original_repository_sha": "40f7b0e8d2c43c2c7e12e0df56f91df62ccc3654",
     "enhanced_repository": "enhansome/enhansome-servicemesh",
