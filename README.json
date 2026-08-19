@@ -1,7 +1,7 @@
 {
   "items": [
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -10,11 +10,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 26783295,
             "language": "Lua",
             "last_commit": "2026-08-16T14:44:43Z",
             "owner": "Kong",
             "repo": "kong",
-            "stars": 43994
+            "stars": 44002
           }
         },
         {
@@ -24,11 +25,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 4710920,
             "language": "Java",
             "last_commit": "2026-08-13T18:29:17Z",
             "owner": "apache",
             "repo": "dubbo",
-            "stars": 41551
+            "stars": 41552
           }
         },
         {
@@ -38,11 +40,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 14125254,
             "language": "Go",
-            "last_commit": "2026-08-18T07:01:58Z",
+            "last_commit": "2026-08-19T10:09:52Z",
             "owner": "hashicorp",
             "repo": "consul",
-            "stars": 30031
+            "stars": 30033
           }
         },
         {
@@ -52,11 +55,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 79316451,
             "language": "C++",
             "last_commit": "2026-07-18T07:34:15Z",
             "owner": "TarsCloud",
             "repo": "Tars",
-            "stars": 10075
+            "stars": 10076
           }
         },
         {
@@ -66,11 +70,12 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 102627638,
             "language": "C",
             "last_commit": "2025-10-08T18:19:44Z",
             "owner": "nginx",
             "repo": "unit",
-            "stars": 5549
+            "stars": 5548
           }
         },
         {
@@ -80,6 +85,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 86740149,
             "language": "Python",
             "last_commit": "2026-08-18T07:31:28Z",
             "owner": "emissary-ingress",
@@ -94,6 +100,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 140654872,
             "language": "Go",
             "last_commit": "2026-07-14T02:27:38Z",
             "owner": "mosn",
@@ -108,11 +115,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 107708884,
             "language": "Go",
-            "last_commit": "2026-08-18T04:08:08Z",
+            "last_commit": "2026-08-19T00:35:04Z",
             "owner": "envoyproxy",
             "repo": "go-control-plane",
-            "stars": 1723
+            "stars": 1722
           }
         },
         {
@@ -122,6 +130,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 140657562,
             "language": "Go",
             "last_commit": "2020-02-26T06:58:19Z",
             "owner": "sofastack",
@@ -136,6 +145,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 146576437,
             "language": "Go",
             "last_commit": "2026-05-15T22:52:37Z",
             "owner": "apache",
@@ -150,6 +160,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 101824999,
             "language": "Go",
             "last_commit": "2018-11-12T11:34:39Z",
             "owner": "nginxinc",
@@ -164,6 +175,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 67527666,
             "language": "Go",
             "last_commit": "2025-08-18T14:17:37Z",
             "owner": "amalgam8",
@@ -175,7 +187,7 @@
       "title": "Frameworks / Runtimes"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -184,11 +196,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 34987697,
             "language": null,
             "last_commit": "2026-06-10T15:05:12Z",
             "owner": "mfornos",
             "repo": "awesome-microservices",
-            "stars": 14480
+            "stars": 14483
           }
         },
         {
@@ -198,6 +211,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 27022152,
             "language": null,
             "last_commit": "2026-04-14T12:29:54Z",
             "owner": "cicdops",
@@ -207,25 +221,10 @@
         }
       ],
       "title": "Related Technologies"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Theory"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "License"
-    },
-    {
-      "description": "Please, read the Contribution Guidelines before submitting your suggestion.\nFeel free to open an issue or create a pull request with your additions.\n:star2: Thank you!",
-      "items": [],
-      "title": "Contributing"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T10:45:51.330Z",
+    "last_updated": "2026-08-19T10:45:00.713Z",
     "original_repository": "festum/awesome-servicemesh",
     "original_repository_sha": "40f7b0e8d2c43c2c7e12e0df56f91df62ccc3654",
     "enhanced_repository": "enhansome/enhansome-servicemesh",
