@@ -30,7 +30,7 @@
             "last_commit": "2026-08-13T18:29:17Z",
             "owner": "apache",
             "repo": "dubbo",
-            "stars": 41552
+            "stars": 41553
           }
         },
         {
@@ -42,10 +42,10 @@
             "archived": false,
             "id": 14125254,
             "language": "Go",
-            "last_commit": "2026-08-19T10:09:52Z",
+            "last_commit": "2026-08-19T12:39:59Z",
             "owner": "hashicorp",
             "repo": "consul",
-            "stars": 30033
+            "stars": 30034
           }
         },
         {
@@ -224,8 +224,9 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T10:45:00.713Z",
+    "last_updated": "2026-08-19T12:50:17.214Z",
     "original_repository": "festum/awesome-servicemesh",
+    "original_repository_id": 149775746,
     "original_repository_sha": "40f7b0e8d2c43c2c7e12e0df56f91df62ccc3654",
     "enhanced_repository": "enhansome/enhansome-servicemesh",
     "enhanced_repository_description": null,
