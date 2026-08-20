@@ -15,7 +15,7 @@
             "last_commit": "2026-08-16T14:44:43Z",
             "owner": "Kong",
             "repo": "kong",
-            "stars": 44002
+            "stars": 44007
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2026-08-13T18:29:17Z",
             "owner": "apache",
             "repo": "dubbo",
-            "stars": 41553
+            "stars": 41556
           }
         },
         {
@@ -42,7 +42,7 @@
             "archived": false,
             "id": 14125254,
             "language": "Go",
-            "last_commit": "2026-08-19T12:39:59Z",
+            "last_commit": "2026-08-20T10:29:23Z",
             "owner": "hashicorp",
             "repo": "consul",
             "stars": 30034
@@ -87,10 +87,10 @@
             "archived": false,
             "id": 86740149,
             "language": "Python",
-            "last_commit": "2026-08-18T07:31:28Z",
+            "last_commit": "2026-08-19T20:05:16Z",
             "owner": "emissary-ingress",
             "repo": "emissary",
-            "stars": 4517
+            "stars": 4518
           }
         },
         {
@@ -117,10 +117,10 @@
             "archived": false,
             "id": 107708884,
             "language": "Go",
-            "last_commit": "2026-08-19T00:35:04Z",
+            "last_commit": "2026-08-19T17:20:03Z",
             "owner": "envoyproxy",
             "repo": "go-control-plane",
-            "stars": 1722
+            "stars": 1723
           }
         },
         {
@@ -201,7 +201,7 @@
             "last_commit": "2026-06-10T15:05:12Z",
             "owner": "mfornos",
             "repo": "awesome-microservices",
-            "stars": 14483
+            "stars": 14487
           }
         },
         {
@@ -224,7 +224,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:50:17.214Z",
+    "last_updated": "2026-08-20T10:46:01.649Z",
     "original_repository": "festum/awesome-servicemesh",
     "original_repository_id": 149775746,
     "original_repository_sha": "40f7b0e8d2c43c2c7e12e0df56f91df62ccc3654",
