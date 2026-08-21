@@ -15,7 +15,7 @@
             "last_commit": "2026-08-16T14:44:43Z",
             "owner": "Kong",
             "repo": "kong",
-            "stars": 44007
+            "stars": 44015
           }
         },
         {
@@ -27,7 +27,7 @@
             "archived": false,
             "id": 4710920,
             "language": "Java",
-            "last_commit": "2026-08-13T18:29:17Z",
+            "last_commit": "2026-08-21T09:21:12Z",
             "owner": "apache",
             "repo": "dubbo",
             "stars": 41556
@@ -42,10 +42,10 @@
             "archived": false,
             "id": 14125254,
             "language": "Go",
-            "last_commit": "2026-08-20T10:29:23Z",
+            "last_commit": "2026-08-21T10:16:04Z",
             "owner": "hashicorp",
             "repo": "consul",
-            "stars": 30034
+            "stars": 30033
           }
         },
         {
@@ -75,7 +75,7 @@
             "last_commit": "2025-10-08T18:19:44Z",
             "owner": "nginx",
             "repo": "unit",
-            "stars": 5548
+            "stars": 5549
           }
         },
         {
@@ -90,7 +90,7 @@
             "last_commit": "2026-08-19T20:05:16Z",
             "owner": "emissary-ingress",
             "repo": "emissary",
-            "stars": 4518
+            "stars": 4519
           }
         },
         {
@@ -117,10 +117,10 @@
             "archived": false,
             "id": 107708884,
             "language": "Go",
-            "last_commit": "2026-08-19T17:20:03Z",
+            "last_commit": "2026-08-21T06:42:45Z",
             "owner": "envoyproxy",
             "repo": "go-control-plane",
-            "stars": 1723
+            "stars": 1724
           }
         },
         {
@@ -198,10 +198,10 @@
             "archived": false,
             "id": 34987697,
             "language": null,
-            "last_commit": "2026-06-10T15:05:12Z",
+            "last_commit": "2026-08-20T15:52:41Z",
             "owner": "mfornos",
             "repo": "awesome-microservices",
-            "stars": 14487
+            "stars": 14488
           }
         },
         {
@@ -224,7 +224,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T10:46:01.649Z",
+    "last_updated": "2026-08-21T10:46:37.464Z",
     "original_repository": "festum/awesome-servicemesh",
     "original_repository_id": 149775746,
     "original_repository_sha": "40f7b0e8d2c43c2c7e12e0df56f91df62ccc3654",
