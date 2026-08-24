@@ -30,7 +30,7 @@
             "last_commit": "2026-08-21T09:21:12Z",
             "owner": "apache",
             "repo": "dubbo",
-            "stars": 41556
+            "stars": 41557
           }
         },
         {
@@ -117,7 +117,7 @@
             "archived": false,
             "id": 107708884,
             "language": "Go",
-            "last_commit": "2026-08-24T06:54:15Z",
+            "last_commit": "2026-08-24T12:09:42Z",
             "owner": "envoyproxy",
             "repo": "go-control-plane",
             "stars": 1724
@@ -216,7 +216,7 @@
             "last_commit": "2026-04-14T12:29:54Z",
             "owner": "cicdops",
             "repo": "awesome-ciandcd",
-            "stars": 2008
+            "stars": 2009
           }
         }
       ],
@@ -224,7 +224,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T10:52:47.257Z",
+    "last_updated": "2026-08-24T14:47:02.524Z",
     "original_repository": "festum/awesome-servicemesh",
     "original_repository_id": 149775746,
     "original_repository_sha": "40f7b0e8d2c43c2c7e12e0df56f91df62ccc3654",
