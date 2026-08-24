@@ -15,7 +15,7 @@
             "last_commit": "2026-08-16T14:44:43Z",
             "owner": "Kong",
             "repo": "kong",
-            "stars": 44025
+            "stars": 44029
           }
         },
         {
@@ -42,10 +42,10 @@
             "archived": false,
             "id": 14125254,
             "language": "Go",
-            "last_commit": "2026-08-22T15:34:21Z",
+            "last_commit": "2026-08-24T07:28:53Z",
             "owner": "hashicorp",
             "repo": "consul",
-            "stars": 30038
+            "stars": 30039
           }
         },
         {
@@ -117,7 +117,7 @@
             "archived": false,
             "id": 107708884,
             "language": "Go",
-            "last_commit": "2026-08-21T22:35:52Z",
+            "last_commit": "2026-08-24T06:54:15Z",
             "owner": "envoyproxy",
             "repo": "go-control-plane",
             "stars": 1724
@@ -201,7 +201,7 @@
             "last_commit": "2026-08-20T15:52:41Z",
             "owner": "mfornos",
             "repo": "awesome-microservices",
-            "stars": 14492
+            "stars": 14491
           }
         },
         {
@@ -224,7 +224,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T10:38:40.869Z",
+    "last_updated": "2026-08-24T10:52:47.257Z",
     "original_repository": "festum/awesome-servicemesh",
     "original_repository_id": 149775746,
     "original_repository_sha": "40f7b0e8d2c43c2c7e12e0df56f91df62ccc3654",
