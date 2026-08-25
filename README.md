@@ -15,8 +15,8 @@ A curated list of tools implements the concept of Service Mesh
 ## Frameworks / Runtimes
 
 * [kong](https://github.com/Kong/kong) ⭐ 44,033 | 🐛 190 | 🌐 Lua | 📅 2026-08-16 - 🐒 The Microservice API Gateway
-* [dubbo](https://github.com/apache/incubator-dubbo) ⭐ 41,555 | 🐛 1,031 | 🌐 Java | 📅 2026-08-25 - Apache Dubbo (incubating) is a high-performance, java based, open source RPC framework
-* [consul](https://github.com/hashicorp/consul) ⭐ 30,040 | 🐛 1,415 | 🌐 Go | 📅 2026-08-25 - Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure
+* [dubbo](https://github.com/apache/incubator-dubbo) ⭐ 41,555 | 🐛 1,029 | 🌐 Java | 📅 2026-08-25 - Apache Dubbo (incubating) is a high-performance, java based, open source RPC framework
+* [consul](https://github.com/hashicorp/consul) ⭐ 30,041 | 🐛 1,415 | 🌐 Go | 📅 2026-08-25 - Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure
 * [tars](https://github.com/Tencent/Tars) ⭐ 10,077 | 🐛 48 | 🌐 C++ | 📅 2026-07-18 - Tars is a highly performance rpc framework based on naming service using tars protocol and provides a semi-automatic operation platform
 * [nginx-unit](https://github.com/nginx/unit) ⚠️ Archived - NGINX Unit is a new, lightweight, open source application server built to meet the demands of today’s dynamic and distributed applications
 * [ambassador](https://github.com/datawire/ambassador) ⭐ 4,519 | 🐛 440 | 🌐 Python | 📅 2026-08-24 - Open source Kubernetes-native API gateway for microservices built on the Envoy Proxy

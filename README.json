@@ -27,7 +27,7 @@
             "archived": false,
             "id": 4710920,
             "language": "Java",
-            "last_commit": "2026-08-25T06:02:41Z",
+            "last_commit": "2026-08-25T08:59:28Z",
             "owner": "apache",
             "repo": "dubbo",
             "stars": 41555
@@ -42,10 +42,10 @@
             "archived": false,
             "id": 14125254,
             "language": "Go",
-            "last_commit": "2026-08-25T06:14:58Z",
+            "last_commit": "2026-08-25T09:33:16Z",
             "owner": "hashicorp",
             "repo": "consul",
-            "stars": 30040
+            "stars": 30041
           }
         },
         {
@@ -224,7 +224,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:39:49.179Z",
+    "last_updated": "2026-08-25T10:48:51.456Z",
     "original_repository": "festum/awesome-servicemesh",
     "original_repository_id": 149775746,
     "original_repository_sha": "40f7b0e8d2c43c2c7e12e0df56f91df62ccc3654",
