@@ -15,7 +15,7 @@
             "last_commit": "2026-08-16T14:44:43Z",
             "owner": "Kong",
             "repo": "kong",
-            "stars": 44048
+            "stars": 44049
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2026-08-27T02:12:02Z",
             "owner": "apache",
             "repo": "dubbo",
-            "stars": 41557
+            "stars": 41560
           }
         },
         {
@@ -42,7 +42,7 @@
             "archived": false,
             "id": 14125254,
             "language": "Go",
-            "last_commit": "2026-08-27T12:03:39Z",
+            "last_commit": "2026-08-27T14:23:33Z",
             "owner": "hashicorp",
             "repo": "consul",
             "stars": 30045
@@ -60,7 +60,7 @@
             "last_commit": "2026-07-18T07:34:15Z",
             "owner": "TarsCloud",
             "repo": "Tars",
-            "stars": 10077
+            "stars": 10078
           }
         },
         {
@@ -201,7 +201,7 @@
             "last_commit": "2026-08-20T15:52:41Z",
             "owner": "mfornos",
             "repo": "awesome-microservices",
-            "stars": 14494
+            "stars": 14497
           }
         },
         {
@@ -224,7 +224,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T12:06:54.860Z",
+    "last_updated": "2026-08-27T20:29:19.991Z",
     "original_repository_info": {
       "archived": false,
       "id": 149775746,
