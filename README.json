@@ -15,8 +15,9 @@
             "last_commit": "2026-08-16T14:44:43Z",
             "owner": "Kong",
             "repo": "kong",
-            "stars": 44049
-          }
+            "stars": 44055
+          },
+          "first_seen": "2026-08-28T21:11:10.862Z"
         },
         {
           "node_type": "item",
@@ -30,8 +31,9 @@
             "last_commit": "2026-08-27T02:12:02Z",
             "owner": "apache",
             "repo": "dubbo",
-            "stars": 41560
-          }
+            "stars": 41561
+          },
+          "first_seen": "2026-08-28T21:11:10.862Z"
         },
         {
           "node_type": "item",
@@ -42,11 +44,12 @@
             "archived": false,
             "id": 14125254,
             "language": "Go",
-            "last_commit": "2026-08-27T14:23:33Z",
+            "last_commit": "2026-08-28T10:00:10Z",
             "owner": "hashicorp",
             "repo": "consul",
-            "stars": 30045
-          }
+            "stars": 30049
+          },
+          "first_seen": "2026-08-28T21:11:10.862Z"
         },
         {
           "node_type": "item",
@@ -60,8 +63,9 @@
             "last_commit": "2026-07-18T07:34:15Z",
             "owner": "TarsCloud",
             "repo": "Tars",
-            "stars": 10078
-          }
+            "stars": 10079
+          },
+          "first_seen": "2026-08-28T21:11:10.862Z"
         },
         {
           "node_type": "item",
@@ -75,8 +79,9 @@
             "last_commit": "2025-10-08T18:19:44Z",
             "owner": "nginx",
             "repo": "unit",
-            "stars": 5549
-          }
+            "stars": 5548
+          },
+          "first_seen": "2026-08-28T21:11:10.862Z"
         },
         {
           "node_type": "item",
@@ -90,8 +95,9 @@
             "last_commit": "2026-08-24T21:56:19Z",
             "owner": "emissary-ingress",
             "repo": "emissary",
-            "stars": 4519
-          }
+            "stars": 4520
+          },
+          "first_seen": "2026-08-28T21:11:10.862Z"
         },
         {
           "node_type": "item",
@@ -106,7 +112,8 @@
             "owner": "mosn",
             "repo": "mosn",
             "stars": 4508
-          }
+          },
+          "first_seen": "2026-08-28T21:11:10.862Z"
         },
         {
           "node_type": "item",
@@ -117,11 +124,12 @@
             "archived": false,
             "id": 107708884,
             "language": "Go",
-            "last_commit": "2026-08-27T01:32:08Z",
+            "last_commit": "2026-08-28T21:07:47Z",
             "owner": "envoyproxy",
             "repo": "go-control-plane",
             "stars": 1725
-          }
+          },
+          "first_seen": "2026-08-28T21:11:10.862Z"
         },
         {
           "node_type": "item",
@@ -136,7 +144,8 @@
             "owner": "sofastack",
             "repo": "sofa-mesh",
             "stars": 1142
-          }
+          },
+          "first_seen": "2026-08-28T21:11:10.862Z"
         },
         {
           "node_type": "item",
@@ -151,7 +160,8 @@
             "owner": "apache",
             "repo": "servicecomb-mesher",
             "stars": 688
-          }
+          },
+          "first_seen": "2026-08-28T21:11:10.862Z"
         },
         {
           "node_type": "item",
@@ -166,7 +176,8 @@
             "owner": "nginxinc",
             "repo": "nginmesh",
             "stars": 599
-          }
+          },
+          "first_seen": "2026-08-28T21:11:10.862Z"
         },
         {
           "node_type": "item",
@@ -181,7 +192,8 @@
             "owner": "amalgam8",
             "repo": "amalgam8",
             "stars": 157
-          }
+          },
+          "first_seen": "2026-08-28T21:11:10.862Z"
         }
       ],
       "title": "Frameworks / Runtimes"
@@ -201,8 +213,9 @@
             "last_commit": "2026-08-20T15:52:41Z",
             "owner": "mfornos",
             "repo": "awesome-microservices",
-            "stars": 14497
-          }
+            "stars": 14498
+          },
+          "first_seen": "2026-08-28T21:11:10.862Z"
         },
         {
           "node_type": "item",
@@ -217,14 +230,15 @@
             "owner": "cicdops",
             "repo": "awesome-ciandcd",
             "stars": 2009
-          }
+          },
+          "first_seen": "2026-08-28T21:11:10.862Z"
         }
       ],
       "title": "Related Technologies"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T20:29:19.991Z",
+    "last_updated": "2026-08-28T21:11:10.862Z",
     "original_repository_info": {
       "archived": false,
       "id": 149775746,
