@@ -19,7 +19,7 @@
             "open_issues": 191,
             "owner": "Kong",
             "repo": "kong",
-            "stars": 44055,
+            "stars": 44057,
             "topics": [
               "ai",
               "ai-gateway",
@@ -58,7 +58,7 @@
             "language": "Java",
             "license": "Apache-2.0",
             "last_commit": "2026-08-27T02:12:02Z",
-            "open_issues": 1033,
+            "open_issues": 1032,
             "owner": "apache",
             "repo": "dubbo",
             "stars": 41561,
@@ -94,7 +94,7 @@
             "open_issues": 1419,
             "owner": "hashicorp",
             "repo": "consul",
-            "stars": 30049,
+            "stars": 30050,
             "topics": [
               "api-gateway",
               "consul",
@@ -123,7 +123,7 @@
             "open_issues": 48,
             "owner": "TarsCloud",
             "repo": "Tars",
-            "stars": 10079,
+            "stars": 10077,
             "topics": [
               "high-availability",
               "high-performance",
@@ -228,8 +228,8 @@
             "id": 107708884,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-08-29T05:03:02Z",
-            "open_issues": 23,
+            "last_commit": "2026-08-29T10:19:21Z",
+            "open_issues": 21,
             "owner": "envoyproxy",
             "repo": "go-control-plane",
             "stars": 1725,
@@ -400,7 +400,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T05:04:23.065Z",
+    "last_updated": "2026-08-29T15:03:28.976Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of tools implements the concept of Server Mesh",
