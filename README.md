@@ -21,7 +21,7 @@ A curated list of tools implements the concept of Service Mesh
 * [nginx-unit](https://github.com/nginx/unit) ⚠️ Archived - NGINX Unit is a new, lightweight, open source application server built to meet the demands of today’s dynamic and distributed applications
 * [ambassador](https://github.com/datawire/ambassador) ⭐ 4,520 | 🐛 440 | 🌐 Python | 📅 2026-08-24 - Open source Kubernetes-native API gateway for microservices built on the Envoy Proxy
 * [sofa-mosn](https://github.com/alipay/sofa-mosn) ⭐ 4,508 | 🐛 298 | 🌐 Go | 📅 2026-07-14 - SOFAMosn is a modular observable smart network which can be used in service mesh deployed as a data plane sidecar
-* [control-plane](https://github.com/envoyproxy/go-control-plane) ⭐ 1,725 | 🐛 22 | 🌐 Go | 📅 2026-08-28 - Contains a Go-based implementation of an API server that implements the discovery service APIs defined in data-plane-api
+* [control-plane](https://github.com/envoyproxy/go-control-plane) ⭐ 1,725 | 🐛 23 | 🌐 Go | 📅 2026-08-29 - Contains a Go-based implementation of an API server that implements the discovery service APIs defined in data-plane-api
 * [sofa-mesh](https://github.com/alipay/sofa-mesh) ⚠️ Archived - A solution for large-scale Service Mesh based on Istio
 * [mesher](https://github.com/go-mesh/mesher) ⭐ 688 | 🐛 29 | 🌐 Go | 📅 2026-05-15 - A light weight service mesh implementation based on [go chassis](https://github.com/ServiceComb/go-chassis) ⭐ 2,725 | 🐛 45 | 🌐 Go | 📅 2026-08-24
 * [nginmesh](https://github.com/nginxinc/nginmesh) ⚠️ Archived - NGINX Architecture with Istio Service Mesh
@@ -64,4 +64,4 @@ Feel free to [open an issue](https://github.com/Festum/awesome-servermesh/issues
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-28._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-29._

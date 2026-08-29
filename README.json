@@ -10,12 +10,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🦍 The API and AI Gateway",
+            "homepage": "https://konghq.com/install/",
             "id": 26783295,
             "language": "Lua",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-16T14:44:43Z",
+            "open_issues": 191,
             "owner": "Kong",
             "repo": "kong",
-            "stars": 44055
+            "stars": 44055,
+            "topics": [
+              "ai",
+              "ai-gateway",
+              "api-gateway",
+              "api-management",
+              "apis",
+              "artificial-intelligence",
+              "cloud-native",
+              "devops",
+              "kubernetes",
+              "kubernetes-ingress",
+              "kubernetes-ingress-controller",
+              "llm-gateway",
+              "llm-ops",
+              "mcp",
+              "mcp-gateway",
+              "microservice",
+              "microservices",
+              "openai-proxy",
+              "reverse-proxy",
+              "serverless"
+            ]
           },
           "first_seen": "2026-08-28T21:11:10.862Z"
         },
@@ -26,12 +52,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The java implementation of Apache Dubbo. An RPC and microservice framework.",
+            "homepage": "https://dubbo.apache.org/",
             "id": 4710920,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-27T02:12:02Z",
+            "open_issues": 1033,
             "owner": "apache",
             "repo": "dubbo",
-            "stars": 41561
+            "stars": 41561,
+            "topics": [
+              "distributed-systems",
+              "dubbo",
+              "framework",
+              "grpc",
+              "http",
+              "java",
+              "microservices",
+              "restful",
+              "rpc",
+              "service-mesh",
+              "web"
+            ]
           },
           "first_seen": "2026-08-28T21:11:10.862Z"
         },
@@ -42,12 +85,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure.",
+            "homepage": "https://www.consul.io",
             "id": 14125254,
             "language": "Go",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-28T10:00:10Z",
+            "open_issues": 1419,
             "owner": "hashicorp",
             "repo": "consul",
-            "stars": 30049
+            "stars": 30049,
+            "topics": [
+              "api-gateway",
+              "consul",
+              "ecs",
+              "kubernetes",
+              "service-discovery",
+              "service-mesh",
+              "vault"
+            ]
           },
           "first_seen": "2026-08-28T21:11:10.862Z"
         },
@@ -58,12 +114,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Tars is a high-performance RPC framework based on name service and Tars protocol, also integrated administration platform, and implemented hosting-service via flexible schedule.",
+            "homepage": null,
             "id": 79316451,
             "language": "C++",
+            "license": "BSD-3-Clause",
             "last_commit": "2026-07-18T07:34:15Z",
+            "open_issues": 48,
             "owner": "TarsCloud",
             "repo": "Tars",
-            "stars": 10079
+            "stars": 10079,
+            "topics": [
+              "high-availability",
+              "high-performance",
+              "microservice",
+              "rpc-framework",
+              "tars",
+              "tars-foundation"
+            ]
           },
           "first_seen": "2026-08-28T21:11:10.862Z"
         },
@@ -74,12 +142,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "NGINX Unit - universal web app server - a lightweight and versatile open source server that simplifies the application stack by natively executing application code across eight different programming language runtimes.",
+            "homepage": "https://unit.nginx.org",
             "id": 102627638,
             "language": "C",
+            "license": "Apache-2.0",
             "last_commit": "2025-10-08T18:19:44Z",
+            "open_issues": 268,
             "owner": "nginx",
             "repo": "unit",
-            "stars": 5548
+            "stars": 5548,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:11:10.862Z"
         },
@@ -90,12 +163,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "open source Kubernetes-native API gateway for microservices built on the Envoy Proxy",
+            "homepage": "https://emissary-ingress.dev/",
             "id": 86740149,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-24T21:56:19Z",
+            "open_issues": 440,
             "owner": "emissary-ingress",
             "repo": "emissary",
-            "stars": 4520
+            "stars": 4520,
+            "topics": [
+              "ambassador",
+              "api-gateway",
+              "api-management",
+              "cloud-native",
+              "docker",
+              "envoy",
+              "envoy-proxy",
+              "gateway-api",
+              "kubernetes",
+              "kubernetes-annotations",
+              "kubernetes-ingress",
+              "microservice"
+            ]
           },
           "first_seen": "2026-08-28T21:11:10.862Z"
         },
@@ -106,12 +197,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The Cloud-Native Network Proxy Platform",
+            "homepage": "https://mosn.io",
             "id": 140654872,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2026-07-14T02:27:38Z",
+            "open_issues": 298,
             "owner": "mosn",
             "repo": "mosn",
-            "stars": 4508
+            "stars": 4508,
+            "topics": [
+              "data-plane",
+              "proxy",
+              "service-mesh",
+              "sidecar"
+            ]
           },
           "first_seen": "2026-08-28T21:11:10.862Z"
         },
@@ -122,12 +223,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Go implementation of data-plane-api",
+            "homepage": null,
             "id": 107708884,
             "language": "Go",
-            "last_commit": "2026-08-28T21:07:47Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-29T05:03:02Z",
+            "open_issues": 23,
             "owner": "envoyproxy",
             "repo": "go-control-plane",
-            "stars": 1725
+            "stars": 1725,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:11:10.862Z"
         },
@@ -138,12 +244,22 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "A solution for large-scale Service Mesh based on Istio.",
+            "homepage": "https://www.sofastack.tech/",
             "id": 140657562,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2020-02-26T06:58:19Z",
+            "open_issues": 17,
             "owner": "sofastack",
             "repo": "sofa-mesh",
-            "stars": 1142
+            "stars": 1142,
+            "topics": [
+              "istio",
+              "service-mesh",
+              "sofa-mesh",
+              "sofastack"
+            ]
           },
           "first_seen": "2026-08-28T21:11:10.862Z"
         },
@@ -154,12 +270,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A high performance service mesh implementation written in go",
+            "homepage": null,
             "id": 146576437,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2026-05-15T22:52:37Z",
+            "open_issues": 29,
             "owner": "apache",
             "repo": "servicecomb-mesher",
-            "stars": 688
+            "stars": 688,
+            "topics": [
+              "istio",
+              "microservice",
+              "microservices-architecture",
+              "proxy",
+              "servicemesh"
+            ]
           },
           "first_seen": "2026-08-28T21:11:10.862Z"
         },
@@ -170,12 +297,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Istio compatible service mesh using NGINX",
+            "homepage": null,
             "id": 101824999,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2018-11-12T11:34:39Z",
+            "open_issues": 5,
             "owner": "nginxinc",
             "repo": "nginmesh",
-            "stars": 599
+            "stars": 599,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:11:10.862Z"
         },
@@ -186,12 +318,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Content and Version-based Routing Fabric for Polyglot Microservices",
+            "homepage": null,
             "id": 67527666,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2025-08-18T14:17:37Z",
+            "open_issues": 22,
             "owner": "amalgam8",
             "repo": "amalgam8",
-            "stars": 157
+            "stars": 157,
+            "topics": [
+              "docker-swarm",
+              "kubernetes",
+              "lyft-envoy",
+              "microservice",
+              "microservice-infrastructure",
+              "service-discovery",
+              "service-mesh",
+              "sidecar"
+            ]
           },
           "first_seen": "2026-08-28T21:11:10.862Z"
         }
@@ -208,12 +354,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of Microservice Architecture related principles and technologies.",
+            "homepage": null,
             "id": 34987697,
             "language": null,
+            "license": "CC0-1.0",
             "last_commit": "2026-08-20T15:52:41Z",
+            "open_issues": 8,
             "owner": "mfornos",
             "repo": "awesome-microservices",
-            "stars": 14498
+            "stars": 14498,
+            "topics": [
+              "awesome",
+              "cloud-computing",
+              "cloud-native",
+              "microservices",
+              "microservices-architecture"
+            ]
           },
           "first_seen": "2026-08-28T21:11:10.862Z"
         },
@@ -224,12 +381,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "continuous integration and continuous delivery",
+            "homepage": "http://www.theaiera.cn",
             "id": 27022152,
             "language": null,
+            "license": "GPL-2.0",
             "last_commit": "2026-04-14T12:29:54Z",
+            "open_issues": 32,
             "owner": "cicdops",
             "repo": "awesome-ciandcd",
-            "stars": 2009
+            "stars": 2009,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:11:10.862Z"
         }
@@ -238,15 +400,27 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T21:11:10.862Z",
+    "last_updated": "2026-08-29T05:04:23.065Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated list of tools implements the concept of Server Mesh",
+      "homepage": null,
       "id": 149775746,
       "language": null,
+      "license": null,
       "last_commit": "2020-05-23T11:32:30Z",
+      "open_issues": 1,
       "owner": "festum",
       "repo": "awesome-servicemesh",
-      "stars": 56
+      "stars": 56,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "kubernetes",
+        "microservice",
+        "microservices-architecture",
+        "service-mesh"
+      ]
     },
     "original_repository_sha": "40f7b0e8d2c43c2c7e12e0df56f91df62ccc3654",
     "enhanced_repository": "enhansome/enhansome-servicemesh",
