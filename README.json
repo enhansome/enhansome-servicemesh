@@ -16,10 +16,10 @@
             "language": "Lua",
             "license": "Apache-2.0",
             "last_commit": "2026-08-16T14:44:43Z",
-            "open_issues": 191,
+            "open_issues": 193,
             "owner": "Kong",
             "repo": "kong",
-            "stars": 44057,
+            "stars": 44058,
             "topics": [
               "ai",
               "ai-gateway",
@@ -58,10 +58,10 @@
             "language": "Java",
             "license": "Apache-2.0",
             "last_commit": "2026-08-27T02:12:02Z",
-            "open_issues": 1032,
+            "open_issues": 1033,
             "owner": "apache",
             "repo": "dubbo",
-            "stars": 41561,
+            "stars": 41562,
             "topics": [
               "distributed-systems",
               "dubbo",
@@ -91,10 +91,10 @@
             "language": "Go",
             "license": "NOASSERTION",
             "last_commit": "2026-08-28T10:00:10Z",
-            "open_issues": 1419,
+            "open_issues": 1420,
             "owner": "hashicorp",
             "repo": "consul",
-            "stars": 30050,
+            "stars": 30052,
             "topics": [
               "api-gateway",
               "consul",
@@ -232,7 +232,7 @@
             "open_issues": 21,
             "owner": "envoyproxy",
             "repo": "go-control-plane",
-            "stars": 1725,
+            "stars": 1726,
             "topics": []
           },
           "first_seen": "2026-08-28T21:11:10.862Z"
@@ -363,7 +363,7 @@
             "open_issues": 8,
             "owner": "mfornos",
             "repo": "awesome-microservices",
-            "stars": 14498,
+            "stars": 14499,
             "topics": [
               "awesome",
               "cloud-computing",
@@ -400,7 +400,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T15:03:28.976Z",
+    "last_updated": "2026-08-30T14:52:02.844Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of tools implements the concept of Server Mesh",
