@@ -19,7 +19,7 @@
             "open_issues": 193,
             "owner": "Kong",
             "repo": "kong",
-            "stars": 44063,
+            "stars": 44070,
             "topics": [
               "ai",
               "ai-gateway",
@@ -61,7 +61,7 @@
             "open_issues": 1032,
             "owner": "apache",
             "repo": "dubbo",
-            "stars": 41563,
+            "stars": 41564,
             "topics": [
               "distributed-systems",
               "dubbo",
@@ -90,11 +90,11 @@
             "id": 14125254,
             "language": "Go",
             "license": "NOASSERTION",
-            "last_commit": "2026-08-31T17:32:04Z",
-            "open_issues": 1420,
+            "last_commit": "2026-09-01T12:36:39Z",
+            "open_issues": 1421,
             "owner": "hashicorp",
             "repo": "consul",
-            "stars": 30053,
+            "stars": 30052,
             "topics": [
               "api-gateway",
               "consul",
@@ -123,7 +123,7 @@
             "open_issues": 48,
             "owner": "TarsCloud",
             "repo": "Tars",
-            "stars": 10078,
+            "stars": 10079,
             "topics": [
               "high-availability",
               "high-performance",
@@ -228,7 +228,7 @@
             "id": 107708884,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-08-31T13:14:30Z",
+            "last_commit": "2026-09-01T11:35:58Z",
             "open_issues": 21,
             "owner": "envoyproxy",
             "repo": "go-control-plane",
@@ -363,7 +363,7 @@
             "open_issues": 8,
             "owner": "mfornos",
             "repo": "awesome-microservices",
-            "stars": 14501,
+            "stars": 14502,
             "topics": [
               "awesome",
               "cloud-computing",
@@ -400,7 +400,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-31T17:36:31.921Z",
+    "last_updated": "2026-09-01T14:52:34.450Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of tools implements the concept of Server Mesh",
