@@ -19,7 +19,7 @@
             "open_issues": 195,
             "owner": "Kong",
             "repo": "kong",
-            "stars": 44082,
+            "stars": 44090,
             "topics": [
               "ai",
               "ai-gateway",
@@ -58,10 +58,10 @@
             "language": "Java",
             "license": "Apache-2.0",
             "last_commit": "2026-09-04T09:37:03Z",
-            "open_issues": 1034,
+            "open_issues": 1036,
             "owner": "apache",
             "repo": "dubbo",
-            "stars": 41565,
+            "stars": 41564,
             "topics": [
               "distributed-systems",
               "dubbo",
@@ -91,10 +91,10 @@
             "language": "Go",
             "license": "NOASSERTION",
             "last_commit": "2026-09-04T13:24:16Z",
-            "open_issues": 1421,
+            "open_issues": 1422,
             "owner": "hashicorp",
             "repo": "consul",
-            "stars": 30053,
+            "stars": 30056,
             "topics": [
               "api-gateway",
               "consul",
@@ -172,7 +172,7 @@
             "open_issues": 441,
             "owner": "emissary-ingress",
             "repo": "emissary",
-            "stars": 4520,
+            "stars": 4519,
             "topics": [
               "ambassador",
               "api-gateway",
@@ -228,11 +228,11 @@
             "id": 107708884,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-04T04:12:37Z",
+            "last_commit": "2026-09-05T06:52:29Z",
             "open_issues": 21,
             "owner": "envoyproxy",
             "repo": "go-control-plane",
-            "stars": 1726,
+            "stars": 1727,
             "topics": []
           },
           "first_seen": "2026-08-28T21:11:10.862Z"
@@ -360,7 +360,7 @@
             "language": null,
             "license": "CC0-1.0",
             "last_commit": "2026-08-20T15:52:41Z",
-            "open_issues": 8,
+            "open_issues": 9,
             "owner": "mfornos",
             "repo": "awesome-microservices",
             "stars": 14504,
@@ -390,7 +390,7 @@
             "open_issues": 32,
             "owner": "cicdops",
             "repo": "awesome-ciandcd",
-            "stars": 2009,
+            "stars": 2010,
             "topics": []
           },
           "first_seen": "2026-08-28T21:11:10.862Z"
@@ -400,7 +400,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-04T14:20:35.282Z",
+    "last_updated": "2026-09-05T13:27:17.847Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of tools implements the concept of Server Mesh",
