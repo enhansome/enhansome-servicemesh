@@ -16,10 +16,10 @@
             "language": "Lua",
             "license": "Apache-2.0",
             "last_commit": "2026-09-07T06:16:21Z",
-            "open_issues": 199,
+            "open_issues": 200,
             "owner": "Kong",
             "repo": "kong",
-            "stars": 44124,
+            "stars": 44126,
             "topics": [
               "ai",
               "ai-gateway",
@@ -58,10 +58,10 @@
             "language": "Java",
             "license": "Apache-2.0",
             "last_commit": "2026-09-04T09:37:03Z",
-            "open_issues": 1044,
+            "open_issues": 1046,
             "owner": "apache",
             "repo": "dubbo",
-            "stars": 41564,
+            "stars": 41565,
             "topics": [
               "distributed-systems",
               "dubbo",
@@ -91,7 +91,7 @@
             "language": "Go",
             "license": "NOASSERTION",
             "last_commit": "2026-09-11T16:57:05Z",
-            "open_issues": 1412,
+            "open_issues": 1413,
             "owner": "hashicorp",
             "repo": "consul",
             "stars": 30063,
@@ -360,7 +360,7 @@
             "language": null,
             "license": "CC0-1.0",
             "last_commit": "2026-08-20T15:52:41Z",
-            "open_issues": 9,
+            "open_issues": 10,
             "owner": "mfornos",
             "repo": "awesome-microservices",
             "stars": 14506,
@@ -390,7 +390,7 @@
             "open_issues": 32,
             "owner": "cicdops",
             "repo": "awesome-ciandcd",
-            "stars": 2011,
+            "stars": 2012,
             "topics": []
           },
           "first_seen": "2026-08-28T21:11:10.862Z"
@@ -400,7 +400,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-12T13:36:08.700Z",
+    "last_updated": "2026-09-13T14:22:00.418Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of tools implements the concept of Server Mesh",
