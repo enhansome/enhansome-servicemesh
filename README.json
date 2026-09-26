@@ -19,7 +19,7 @@
             "open_issues": 209,
             "owner": "Kong",
             "repo": "kong",
-            "stars": 44195,
+            "stars": 44199,
             "topics": [
               "ai",
               "ai-gateway",
@@ -94,7 +94,7 @@
             "open_issues": 1414,
             "owner": "hashicorp",
             "repo": "consul",
-            "stars": 30081,
+            "stars": 30085,
             "topics": [
               "api-gateway",
               "consul",
@@ -151,7 +151,7 @@
             "open_issues": 268,
             "owner": "nginx",
             "repo": "unit",
-            "stars": 5543,
+            "stars": 5542,
             "topics": []
           },
           "first_seen": "2026-08-28T21:11:10.862Z"
@@ -168,8 +168,8 @@
             "id": 86740149,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-22T15:26:26Z",
-            "open_issues": 403,
+            "last_commit": "2026-09-25T20:18:39Z",
+            "open_issues": 405,
             "owner": "emissary-ingress",
             "repo": "emissary",
             "stars": 4523,
@@ -228,7 +228,7 @@
             "id": 107708884,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-25T15:02:55Z",
+            "last_commit": "2026-09-26T05:58:56Z",
             "open_issues": 20,
             "owner": "envoyproxy",
             "repo": "go-control-plane",
@@ -360,10 +360,10 @@
             "language": null,
             "license": "CC0-1.0",
             "last_commit": "2026-08-20T15:52:41Z",
-            "open_issues": 13,
+            "open_issues": 14,
             "owner": "mfornos",
             "repo": "awesome-microservices",
-            "stars": 14519,
+            "stars": 14518,
             "topics": [
               "awesome",
               "cloud-computing",
@@ -400,7 +400,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-25T15:15:07.253Z",
+    "last_updated": "2026-09-26T14:28:32.766Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of tools implements the concept of Server Mesh",
