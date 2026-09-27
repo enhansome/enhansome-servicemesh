@@ -16,10 +16,10 @@
             "language": "Lua",
             "license": "Apache-2.0",
             "last_commit": "2026-09-24T06:01:18Z",
-            "open_issues": 209,
+            "open_issues": 210,
             "owner": "Kong",
             "repo": "kong",
-            "stars": 44199,
+            "stars": 44201,
             "topics": [
               "ai",
               "ai-gateway",
@@ -61,7 +61,7 @@
             "open_issues": 1048,
             "owner": "apache",
             "repo": "dubbo",
-            "stars": 41578,
+            "stars": 41582,
             "topics": [
               "distributed-systems",
               "dubbo",
@@ -90,11 +90,11 @@
             "id": 14125254,
             "language": "Go",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-25T14:37:44Z",
+            "last_commit": "2026-09-27T06:41:16Z",
             "open_issues": 1414,
             "owner": "hashicorp",
             "repo": "consul",
-            "stars": 30085,
+            "stars": 30088,
             "topics": [
               "api-gateway",
               "consul",
@@ -228,7 +228,7 @@
             "id": 107708884,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-26T05:58:56Z",
+            "last_commit": "2026-09-27T02:25:44Z",
             "open_issues": 20,
             "owner": "envoyproxy",
             "repo": "go-control-plane",
@@ -400,7 +400,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-26T14:28:32.766Z",
+    "last_updated": "2026-09-27T15:09:07.779Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of tools implements the concept of Server Mesh",
