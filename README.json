@@ -19,7 +19,7 @@
             "open_issues": 219,
             "owner": "Kong",
             "repo": "kong",
-            "stars": 44217,
+            "stars": 44225,
             "topics": [
               "ai",
               "ai-gateway",
@@ -61,7 +61,7 @@
             "open_issues": 1053,
             "owner": "apache",
             "repo": "dubbo",
-            "stars": 41582,
+            "stars": 41579,
             "topics": [
               "distributed-systems",
               "dubbo",
@@ -90,11 +90,11 @@
             "id": 14125254,
             "language": "Go",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-29T06:18:30Z",
-            "open_issues": 1417,
+            "last_commit": "2026-09-30T16:13:36Z",
+            "open_issues": 1416,
             "owner": "hashicorp",
             "repo": "consul",
-            "stars": 30087,
+            "stars": 30086,
             "topics": [
               "api-gateway",
               "consul",
@@ -123,7 +123,7 @@
             "open_issues": 48,
             "owner": "TarsCloud",
             "repo": "Tars",
-            "stars": 10084,
+            "stars": 10083,
             "topics": [
               "high-availability",
               "high-performance",
@@ -169,10 +169,10 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-09-28T22:25:45Z",
-            "open_issues": 402,
+            "open_issues": 403,
             "owner": "emissary-ingress",
             "repo": "emissary",
-            "stars": 4524,
+            "stars": 4525,
             "topics": [
               "ambassador",
               "api-gateway",
@@ -228,7 +228,7 @@
             "id": 107708884,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-29T15:13:21Z",
+            "last_commit": "2026-09-30T15:23:04Z",
             "open_issues": 20,
             "owner": "envoyproxy",
             "repo": "go-control-plane",
@@ -400,7 +400,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-29T16:30:22.094Z",
+    "last_updated": "2026-09-30T16:24:11.862Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of tools implements the concept of Server Mesh",
