@@ -16,10 +16,10 @@
             "language": "Lua",
             "license": "Apache-2.0",
             "last_commit": "2026-10-02T13:43:33Z",
-            "open_issues": 221,
+            "open_issues": 222,
             "owner": "Kong",
             "repo": "kong",
-            "stars": 44233,
+            "stars": 44235,
             "topics": [
               "ai",
               "ai-gateway",
@@ -228,8 +228,8 @@
             "id": 107708884,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-30T22:05:45Z",
-            "open_issues": 20,
+            "last_commit": "2026-10-03T04:45:54Z",
+            "open_issues": 23,
             "owner": "envoyproxy",
             "repo": "go-control-plane",
             "stars": 1733,
@@ -363,7 +363,7 @@
             "open_issues": 16,
             "owner": "mfornos",
             "repo": "awesome-microservices",
-            "stars": 14529,
+            "stars": 14530,
             "topics": [
               "awesome",
               "cloud-computing",
@@ -400,7 +400,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T16:15:51.463Z",
+    "last_updated": "2026-10-03T05:10:39.648Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of tools implements the concept of Server Mesh",
