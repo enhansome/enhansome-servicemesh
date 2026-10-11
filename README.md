@@ -14,14 +14,14 @@ A curated list of tools implements the concept of Service Mesh
 
 ## Frameworks / Runtimes
 
-* [kong](https://github.com/Kong/kong) ⭐ 44,259 | 🐛 224 | 🌐 Lua | 📅 2026-10-10 - 🐒 The Microservice API Gateway
-* [dubbo](https://github.com/apache/incubator-dubbo) ⭐ 41,579 | 🐛 1,030 | 🌐 Java | 📅 2026-10-10 - Apache Dubbo (incubating) is a high-performance, java based, open source RPC framework
-* [consul](https://github.com/hashicorp/consul) ⭐ 30,093 | 🐛 1,417 | 🌐 Go | 📅 2026-10-09 - Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure
+* [kong](https://github.com/Kong/kong) ⭐ 44,260 | 🐛 224 | 🌐 Lua | 📅 2026-10-10 - 🐒 The Microservice API Gateway
+* [dubbo](https://github.com/apache/incubator-dubbo) ⭐ 41,582 | 🐛 1,030 | 🌐 Java | 📅 2026-10-10 - Apache Dubbo (incubating) is a high-performance, java based, open source RPC framework
+* [consul](https://github.com/hashicorp/consul) ⭐ 30,091 | 🐛 1,413 | 🌐 Go | 📅 2026-10-09 - Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure
 * [tars](https://github.com/Tencent/Tars) ⭐ 10,079 | 🐛 48 | 🌐 C++ | 📅 2026-07-18 - Tars is a highly performance rpc framework based on naming service using tars protocol and provides a semi-automatic operation platform
 * [nginx-unit](https://github.com/nginx/unit) ⚠️ Archived - NGINX Unit is a new, lightweight, open source application server built to meet the demands of today’s dynamic and distributed applications
-* [ambassador](https://github.com/datawire/ambassador) ⭐ 4,522 | 🐛 410 | 🌐 Python | 📅 2026-10-09 - Open source Kubernetes-native API gateway for microservices built on the Envoy Proxy
-* [sofa-mosn](https://github.com/alipay/sofa-mosn) ⭐ 4,508 | 🐛 298 | 🌐 Go | 📅 2026-07-14 - SOFAMosn is a modular observable smart network which can be used in service mesh deployed as a data plane sidecar
-* [control-plane](https://github.com/envoyproxy/go-control-plane) ⭐ 1,734 | 🐛 22 | 🌐 Go | 📅 2026-10-09 - Contains a Go-based implementation of an API server that implements the discovery service APIs defined in data-plane-api
+* [ambassador](https://github.com/datawire/ambassador) ⭐ 4,521 | 🐛 410 | 🌐 Python | 📅 2026-10-09 - Open source Kubernetes-native API gateway for microservices built on the Envoy Proxy
+* [sofa-mosn](https://github.com/alipay/sofa-mosn) ⭐ 4,507 | 🐛 298 | 🌐 Go | 📅 2026-07-14 - SOFAMosn is a modular observable smart network which can be used in service mesh deployed as a data plane sidecar
+* [control-plane](https://github.com/envoyproxy/go-control-plane) ⭐ 1,734 | 🐛 22 | 🌐 Go | 📅 2026-10-11 - Contains a Go-based implementation of an API server that implements the discovery service APIs defined in data-plane-api
 * [sofa-mesh](https://github.com/alipay/sofa-mesh) ⚠️ Archived - A solution for large-scale Service Mesh based on Istio
 * [mesher](https://github.com/go-mesh/mesher) ⭐ 686 | 🐛 29 | 🌐 Go | 📅 2026-05-15 - A light weight service mesh implementation based on [go chassis](https://github.com/ServiceComb/go-chassis) ⭐ 2,726 | 🐛 45 | 🌐 Go | 📅 2026-08-24
 * [nginmesh](https://github.com/nginxinc/nginmesh) ⚠️ Archived - NGINX Architecture with Istio Service Mesh
@@ -64,4 +64,4 @@ Feel free to [open an issue](https://github.com/Festum/awesome-servermesh/issues
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-10._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-11._

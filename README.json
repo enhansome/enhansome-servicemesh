@@ -19,7 +19,7 @@
             "open_issues": 224,
             "owner": "Kong",
             "repo": "kong",
-            "stars": 44259,
+            "stars": 44260,
             "topics": [
               "ai",
               "ai-gateway",
@@ -61,7 +61,7 @@
             "open_issues": 1030,
             "owner": "apache",
             "repo": "dubbo",
-            "stars": 41579,
+            "stars": 41582,
             "topics": [
               "distributed-systems",
               "dubbo",
@@ -91,10 +91,10 @@
             "language": "Go",
             "license": "NOASSERTION",
             "last_commit": "2026-10-09T17:38:35Z",
-            "open_issues": 1417,
+            "open_issues": 1413,
             "owner": "hashicorp",
             "repo": "consul",
-            "stars": 30093,
+            "stars": 30091,
             "topics": [
               "api-gateway",
               "consul",
@@ -172,7 +172,7 @@
             "open_issues": 410,
             "owner": "emissary-ingress",
             "repo": "emissary",
-            "stars": 4522,
+            "stars": 4521,
             "topics": [
               "ambassador",
               "api-gateway",
@@ -206,7 +206,7 @@
             "open_issues": 298,
             "owner": "mosn",
             "repo": "mosn",
-            "stars": 4508,
+            "stars": 4507,
             "topics": [
               "data-plane",
               "proxy",
@@ -228,7 +228,7 @@
             "id": 107708884,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-09T23:09:25Z",
+            "last_commit": "2026-10-11T12:36:33Z",
             "open_issues": 22,
             "owner": "envoyproxy",
             "repo": "go-control-plane",
@@ -400,7 +400,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-10T15:51:59.275Z",
+    "last_updated": "2026-10-11T16:19:09.244Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of tools implements the concept of Server Mesh",
