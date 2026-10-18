@@ -58,10 +58,10 @@
             "language": "Java",
             "license": "Apache-2.0",
             "last_commit": "2026-10-13T11:20:06Z",
-            "open_issues": 1035,
+            "open_issues": 1037,
             "owner": "apache",
             "repo": "dubbo",
-            "stars": 41586,
+            "stars": 41584,
             "topics": [
               "distributed-systems",
               "dubbo",
@@ -91,10 +91,10 @@
             "language": "Go",
             "license": "NOASSERTION",
             "last_commit": "2026-10-16T15:02:24Z",
-            "open_issues": 1414,
+            "open_issues": 1419,
             "owner": "hashicorp",
             "repo": "consul",
-            "stars": 30087,
+            "stars": 30088,
             "topics": [
               "api-gateway",
               "consul",
@@ -123,7 +123,7 @@
             "open_issues": 48,
             "owner": "TarsCloud",
             "repo": "Tars",
-            "stars": 10081,
+            "stars": 10080,
             "topics": [
               "high-availability",
               "high-performance",
@@ -228,7 +228,7 @@
             "id": 107708884,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-17T07:23:58Z",
+            "last_commit": "2026-10-18T01:53:49Z",
             "open_issues": 24,
             "owner": "envoyproxy",
             "repo": "go-control-plane",
@@ -360,7 +360,7 @@
             "language": null,
             "license": "CC0-1.0",
             "last_commit": "2026-08-20T15:52:41Z",
-            "open_issues": 17,
+            "open_issues": 18,
             "owner": "mfornos",
             "repo": "awesome-microservices",
             "stars": 14542,
@@ -400,7 +400,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-17T13:42:22.918Z",
+    "last_updated": "2026-10-18T14:00:05.728Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of tools implements the concept of Server Mesh",
