@@ -19,7 +19,7 @@
             "open_issues": 220,
             "owner": "Kong",
             "repo": "kong",
-            "stars": 44286,
+            "stars": 44290,
             "topics": [
               "ai",
               "ai-gateway",
@@ -57,11 +57,11 @@
             "id": 4710920,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-20T02:41:03Z",
-            "open_issues": 1048,
+            "last_commit": "2026-10-21T02:25:11Z",
+            "open_issues": 1047,
             "owner": "apache",
             "repo": "dubbo",
-            "stars": 41578,
+            "stars": 41577,
             "topics": [
               "distributed-systems",
               "dubbo",
@@ -90,11 +90,11 @@
             "id": 14125254,
             "language": "Go",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-20T08:52:54Z",
-            "open_issues": 1420,
+            "last_commit": "2026-10-21T07:34:24Z",
+            "open_issues": 1421,
             "owner": "hashicorp",
             "repo": "consul",
-            "stars": 30088,
+            "stars": 30089,
             "topics": [
               "api-gateway",
               "consul",
@@ -151,7 +151,7 @@
             "open_issues": 268,
             "owner": "nginx",
             "repo": "unit",
-            "stars": 5540,
+            "stars": 5539,
             "topics": []
           },
           "first_seen": "2026-08-28T21:11:10.862Z"
@@ -228,7 +228,7 @@
             "id": 107708884,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-20T13:57:50Z",
+            "last_commit": "2026-10-20T16:42:00Z",
             "open_issues": 24,
             "owner": "envoyproxy",
             "repo": "go-control-plane",
@@ -400,7 +400,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-20T15:03:35.956Z",
+    "last_updated": "2026-10-21T15:13:29.798Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of tools implements the concept of Server Mesh",
