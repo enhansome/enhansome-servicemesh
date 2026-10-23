@@ -19,7 +19,7 @@
             "open_issues": 220,
             "owner": "Kong",
             "repo": "kong",
-            "stars": 44288,
+            "stars": 44297,
             "topics": [
               "ai",
               "ai-gateway",
@@ -58,10 +58,10 @@
             "language": "Java",
             "license": "Apache-2.0",
             "last_commit": "2026-10-21T02:25:11Z",
-            "open_issues": 1047,
+            "open_issues": 1055,
             "owner": "apache",
             "repo": "dubbo",
-            "stars": 41576,
+            "stars": 41575,
             "topics": [
               "distributed-systems",
               "dubbo",
@@ -90,11 +90,11 @@
             "id": 14125254,
             "language": "Go",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-22T07:37:51Z",
-            "open_issues": 1422,
+            "last_commit": "2026-10-23T13:18:42Z",
+            "open_issues": 1423,
             "owner": "hashicorp",
             "repo": "consul",
-            "stars": 30088,
+            "stars": 30086,
             "topics": [
               "api-gateway",
               "consul",
@@ -151,7 +151,7 @@
             "open_issues": 268,
             "owner": "nginx",
             "repo": "unit",
-            "stars": 5539,
+            "stars": 5538,
             "topics": []
           },
           "first_seen": "2026-08-28T21:11:10.862Z"
@@ -168,8 +168,8 @@
             "id": 86740149,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-19T05:28:01Z",
-            "open_issues": 411,
+            "last_commit": "2026-10-22T21:22:02Z",
+            "open_issues": 418,
             "owner": "emissary-ingress",
             "repo": "emissary",
             "stars": 4521,
@@ -228,7 +228,7 @@
             "id": 107708884,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-22T02:29:18Z",
+            "last_commit": "2026-10-23T12:52:13Z",
             "open_issues": 24,
             "owner": "envoyproxy",
             "repo": "go-control-plane",
@@ -360,10 +360,10 @@
             "language": null,
             "license": "CC0-1.0",
             "last_commit": "2026-08-20T15:52:41Z",
-            "open_issues": 20,
+            "open_issues": 21,
             "owner": "mfornos",
             "repo": "awesome-microservices",
-            "stars": 14546,
+            "stars": 14548,
             "topics": [
               "awesome",
               "cloud-computing",
@@ -400,7 +400,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-22T15:15:21.335Z",
+    "last_updated": "2026-10-23T15:02:47.462Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of tools implements the concept of Server Mesh",
