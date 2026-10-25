@@ -19,7 +19,7 @@
             "open_issues": 221,
             "owner": "Kong",
             "repo": "kong",
-            "stars": 44296,
+            "stars": 44301,
             "topics": [
               "ai",
               "ai-gateway",
@@ -57,11 +57,11 @@
             "id": 4710920,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-21T02:25:11Z",
-            "open_issues": 1055,
+            "last_commit": "2026-10-25T08:14:52Z",
+            "open_issues": 1056,
             "owner": "apache",
             "repo": "dubbo",
-            "stars": 41574,
+            "stars": 41575,
             "topics": [
               "distributed-systems",
               "dubbo",
@@ -94,7 +94,7 @@
             "open_issues": 1426,
             "owner": "hashicorp",
             "repo": "consul",
-            "stars": 30088,
+            "stars": 30090,
             "topics": [
               "api-gateway",
               "consul",
@@ -151,7 +151,7 @@
             "open_issues": 268,
             "owner": "nginx",
             "repo": "unit",
-            "stars": 5537,
+            "stars": 5538,
             "topics": []
           },
           "first_seen": "2026-08-28T21:11:10.862Z"
@@ -172,7 +172,7 @@
             "open_issues": 419,
             "owner": "emissary-ingress",
             "repo": "emissary",
-            "stars": 4520,
+            "stars": 4521,
             "topics": [
               "ambassador",
               "api-gateway",
@@ -363,7 +363,7 @@
             "open_issues": 21,
             "owner": "mfornos",
             "repo": "awesome-microservices",
-            "stars": 14548,
+            "stars": 14551,
             "topics": [
               "awesome",
               "cloud-computing",
@@ -400,7 +400,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-24T14:00:17.310Z",
+    "last_updated": "2026-10-25T14:21:44.236Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of tools implements the concept of Server Mesh",
