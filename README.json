@@ -58,10 +58,10 @@
             "language": "Java",
             "license": "Apache-2.0",
             "last_commit": "2026-11-03T10:56:39Z",
-            "open_issues": 1069,
+            "open_issues": 1070,
             "owner": "apache",
             "repo": "dubbo",
-            "stars": 41571,
+            "stars": 41573,
             "topics": [
               "distributed-systems",
               "dubbo",
@@ -151,7 +151,7 @@
             "open_issues": 268,
             "owner": "nginx",
             "repo": "unit",
-            "stars": 5536,
+            "stars": 5535,
             "topics": []
           },
           "first_seen": "2026-08-28T21:11:10.862Z"
@@ -172,7 +172,7 @@
             "open_issues": 405,
             "owner": "emissary-ingress",
             "repo": "emissary",
-            "stars": 4525,
+            "stars": 4526,
             "topics": [
               "ambassador",
               "api-gateway",
@@ -206,7 +206,7 @@
             "open_issues": 298,
             "owner": "mosn",
             "repo": "mosn",
-            "stars": 4507,
+            "stars": 4508,
             "topics": [
               "data-plane",
               "proxy",
@@ -228,7 +228,7 @@
             "id": 107708884,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-05T21:18:13Z",
+            "last_commit": "2026-11-07T13:21:26Z",
             "open_issues": 24,
             "owner": "envoyproxy",
             "repo": "go-control-plane",
@@ -360,10 +360,10 @@
             "language": null,
             "license": "CC0-1.0",
             "last_commit": "2026-08-20T15:52:41Z",
-            "open_issues": 25,
+            "open_issues": 24,
             "owner": "mfornos",
             "repo": "awesome-microservices",
-            "stars": 14564,
+            "stars": 14565,
             "topics": [
               "awesome",
               "cloud-computing",
@@ -390,7 +390,7 @@
             "open_issues": 40,
             "owner": "cicdops",
             "repo": "awesome-ciandcd",
-            "stars": 2015,
+            "stars": 2014,
             "topics": []
           },
           "first_seen": "2026-08-28T21:11:10.862Z"
@@ -400,7 +400,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-06T17:28:27.597Z",
+    "last_updated": "2026-11-07T16:24:40.867Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of tools implements the concept of Server Mesh",
