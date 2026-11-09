@@ -19,7 +19,7 @@
             "open_issues": 228,
             "owner": "Kong",
             "repo": "kong",
-            "stars": 44365,
+            "stars": 44368,
             "topics": [
               "ai",
               "ai-gateway",
@@ -57,11 +57,11 @@
             "id": 4710920,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-03T10:56:39Z",
-            "open_issues": 1070,
+            "last_commit": "2026-11-09T13:22:55Z",
+            "open_issues": 1069,
             "owner": "apache",
             "repo": "dubbo",
-            "stars": 41574,
+            "stars": 41576,
             "topics": [
               "distributed-systems",
               "dubbo",
@@ -90,11 +90,11 @@
             "id": 14125254,
             "language": "Go",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-06T14:03:01Z",
-            "open_issues": 1443,
+            "last_commit": "2026-11-09T19:40:13Z",
+            "open_issues": 1446,
             "owner": "hashicorp",
             "repo": "consul",
-            "stars": 30108,
+            "stars": 30110,
             "topics": [
               "api-gateway",
               "consul",
@@ -206,7 +206,7 @@
             "open_issues": 298,
             "owner": "mosn",
             "repo": "mosn",
-            "stars": 4508,
+            "stars": 4507,
             "topics": [
               "data-plane",
               "proxy",
@@ -228,7 +228,7 @@
             "id": 107708884,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-08T13:44:31Z",
+            "last_commit": "2026-11-09T17:15:08Z",
             "open_issues": 24,
             "owner": "envoyproxy",
             "repo": "go-control-plane",
@@ -253,7 +253,7 @@
             "open_issues": 17,
             "owner": "sofastack",
             "repo": "sofa-mesh",
-            "stars": 1141,
+            "stars": 1140,
             "topics": [
               "istio",
               "service-mesh",
@@ -363,7 +363,7 @@
             "open_issues": 24,
             "owner": "mfornos",
             "repo": "awesome-microservices",
-            "stars": 14566,
+            "stars": 14568,
             "topics": [
               "awesome",
               "cloud-computing",
@@ -400,7 +400,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-08T16:39:21.327Z",
+    "last_updated": "2026-11-09T20:42:37.400Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of tools implements the concept of Server Mesh",
