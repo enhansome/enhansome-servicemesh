@@ -19,7 +19,7 @@
             "open_issues": 228,
             "owner": "Kong",
             "repo": "kong",
-            "stars": 44376,
+            "stars": 44375,
             "topics": [
               "ai",
               "ai-gateway",
@@ -61,7 +61,7 @@
             "open_issues": 1075,
             "owner": "apache",
             "repo": "dubbo",
-            "stars": 41578,
+            "stars": 41575,
             "topics": [
               "distributed-systems",
               "dubbo",
@@ -90,11 +90,11 @@
             "id": 14125254,
             "language": "Go",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-10T16:08:14Z",
+            "last_commit": "2026-11-11T15:52:38Z",
             "open_issues": 1445,
             "owner": "hashicorp",
             "repo": "consul",
-            "stars": 30111,
+            "stars": 30114,
             "topics": [
               "api-gateway",
               "consul",
@@ -123,7 +123,7 @@
             "open_issues": 48,
             "owner": "TarsCloud",
             "repo": "Tars",
-            "stars": 10079,
+            "stars": 10080,
             "topics": [
               "high-availability",
               "high-performance",
@@ -400,7 +400,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-10T17:48:26.207Z",
+    "last_updated": "2026-11-11T17:52:47.265Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of tools implements the concept of Server Mesh",
