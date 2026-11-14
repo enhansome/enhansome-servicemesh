@@ -19,7 +19,7 @@
             "open_issues": 230,
             "owner": "Kong",
             "repo": "kong",
-            "stars": 44379,
+            "stars": 44378,
             "topics": [
               "ai",
               "ai-gateway",
@@ -61,7 +61,7 @@
             "open_issues": 1080,
             "owner": "apache",
             "repo": "dubbo",
-            "stars": 41573,
+            "stars": 41571,
             "topics": [
               "distributed-systems",
               "dubbo",
@@ -90,11 +90,11 @@
             "id": 14125254,
             "language": "Go",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-13T13:39:12Z",
-            "open_issues": 1454,
+            "last_commit": "2026-11-14T03:24:46Z",
+            "open_issues": 1458,
             "owner": "hashicorp",
             "repo": "consul",
-            "stars": 30113,
+            "stars": 30112,
             "topics": [
               "api-gateway",
               "consul",
@@ -228,7 +228,7 @@
             "id": 107708884,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-13T17:31:33Z",
+            "last_commit": "2026-11-13T22:32:49Z",
             "open_issues": 24,
             "owner": "envoyproxy",
             "repo": "go-control-plane",
@@ -363,7 +363,7 @@
             "open_issues": 25,
             "owner": "mfornos",
             "repo": "awesome-microservices",
-            "stars": 14576,
+            "stars": 14578,
             "topics": [
               "awesome",
               "cloud-computing",
@@ -400,7 +400,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-13T17:43:16.932Z",
+    "last_updated": "2026-11-14T16:35:20.661Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of tools implements the concept of Server Mesh",
