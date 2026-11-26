@@ -19,7 +19,7 @@
             "open_issues": 239,
             "owner": "Kong",
             "repo": "kong",
-            "stars": 44416,
+            "stars": 44421,
             "topics": [
               "ai",
               "ai-gateway",
@@ -58,10 +58,10 @@
             "language": "Java",
             "license": "Apache-2.0",
             "last_commit": "2026-11-25T07:14:40Z",
-            "open_issues": 1074,
+            "open_issues": 1082,
             "owner": "apache",
             "repo": "dubbo",
-            "stars": 41575,
+            "stars": 41574,
             "topics": [
               "distributed-systems",
               "dubbo",
@@ -90,11 +90,11 @@
             "id": 14125254,
             "language": "Go",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-25T17:01:55Z",
+            "last_commit": "2026-11-26T16:59:39Z",
             "open_issues": 1457,
             "owner": "hashicorp",
             "repo": "consul",
-            "stars": 30122,
+            "stars": 30125,
             "topics": [
               "api-gateway",
               "consul",
@@ -123,7 +123,7 @@
             "open_issues": 48,
             "owner": "TarsCloud",
             "repo": "Tars",
-            "stars": 10077,
+            "stars": 10076,
             "topics": [
               "high-availability",
               "high-performance",
@@ -229,7 +229,7 @@
             "language": "Go",
             "license": "Apache-2.0",
             "last_commit": "2026-11-25T07:17:14Z",
-            "open_issues": 25,
+            "open_issues": 26,
             "owner": "envoyproxy",
             "repo": "go-control-plane",
             "stars": 1745,
@@ -360,10 +360,10 @@
             "language": null,
             "license": "CC0-1.0",
             "last_commit": "2026-08-20T15:52:41Z",
-            "open_issues": 29,
+            "open_issues": 30,
             "owner": "mfornos",
             "repo": "awesome-microservices",
-            "stars": 14593,
+            "stars": 14594,
             "topics": [
               "awesome",
               "cloud-computing",
@@ -400,7 +400,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-25T19:55:55.722Z",
+    "last_updated": "2026-11-26T19:36:14.732Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of tools implements the concept of Server Mesh",
