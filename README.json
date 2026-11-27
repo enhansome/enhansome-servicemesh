@@ -19,7 +19,7 @@
             "open_issues": 239,
             "owner": "Kong",
             "repo": "kong",
-            "stars": 44421,
+            "stars": 44425,
             "topics": [
               "ai",
               "ai-gateway",
@@ -57,11 +57,11 @@
             "id": 4710920,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-25T07:14:40Z",
-            "open_issues": 1082,
+            "last_commit": "2026-11-27T12:49:21Z",
+            "open_issues": 1075,
             "owner": "apache",
             "repo": "dubbo",
-            "stars": 41574,
+            "stars": 41573,
             "topics": [
               "distributed-systems",
               "dubbo",
@@ -90,11 +90,11 @@
             "id": 14125254,
             "language": "Go",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-26T16:59:39Z",
-            "open_issues": 1457,
+            "last_commit": "2026-11-27T12:23:34Z",
+            "open_issues": 1452,
             "owner": "hashicorp",
             "repo": "consul",
-            "stars": 30125,
+            "stars": 30126,
             "topics": [
               "api-gateway",
               "consul",
@@ -172,7 +172,7 @@
             "open_issues": 414,
             "owner": "emissary-ingress",
             "repo": "emissary",
-            "stars": 4526,
+            "stars": 4527,
             "topics": [
               "ambassador",
               "api-gateway",
@@ -228,7 +228,7 @@
             "id": 107708884,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-25T07:17:14Z",
+            "last_commit": "2026-11-27T02:39:54Z",
             "open_issues": 26,
             "owner": "envoyproxy",
             "repo": "go-control-plane",
@@ -363,7 +363,7 @@
             "open_issues": 30,
             "owner": "mfornos",
             "repo": "awesome-microservices",
-            "stars": 14594,
+            "stars": 14596,
             "topics": [
               "awesome",
               "cloud-computing",
@@ -400,7 +400,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-26T19:36:14.732Z",
+    "last_updated": "2026-11-27T19:27:38.877Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of tools implements the concept of Server Mesh",
